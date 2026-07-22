@@ -1,2 +1,4 @@
 aaaaああああああ
 git commit
+git diff
+git add
